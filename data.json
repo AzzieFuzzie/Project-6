@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "technologies": "HTML,CSS,Javascript",
+      "description": "Generates a random quote",
+      "live_link": "#",
+      "github_link": "#",
+      "image_urls": "images/random_quotes.png"
+    },
+    {
+      "id": 1,
+      "project_name": "Data paginaton and filtering",
+      "technologies": "HTML,CSS,Javascript",
+      "description": "Shows appropriate data depending on page number",
+      "live_link": "#",
+      "github_link": "#",
+      "image_urls": "images/pagination.png"
+    },
+    {
+      "id": 2,
+      "project_name": "Form Validation",
+      "technologies": "HTML,CSS,Javascript",
+      "description": "Validates a from to check if information provided by the user is valid when submitted",
+      "live_link": "#",
+      "github_link": "#",
+      "image_urls": "images/form.png"
+    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter Game",
+      "technologies": "HTML,CSS,Javascript",
+      "description": "A game similiar to hang man>Players have to guess the word before running out of lives.",
+      "live_link": "#",
+      "github_link": "#",
+      "image_urls": "phrase_hunter.png"
+    },
+    {
+      "id": 4,
+      "project_name": "Api Request",
+      "technologies": "HTML,CSS,Javascript",
+      "description": "Fetches data from an API and displayes is.Users can click on a employee and a modal will show with the relevant information",
+      "live_link": "#",
+      "github_link": "#",
+      "image_urls": "#"
+    }
+  ]
+}

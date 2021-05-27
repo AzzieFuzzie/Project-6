@@ -23,10 +23,11 @@ block content
           //- The text 'Thumbnail' interpolated with the project title for the img's alt attribute
           //- The project title for the h5 element's text
 //- // Requires data from data.json file
-//- const data = require('./data.json').projects;
+
+
 //- each project in projects
 //-         .cell
 //-           a(href='#')
-//-             img.thumbnail(src='', alt='')
-//-             h5 My Site
+//-             img.thumbnail(src='project.image_urls', alt='project.project_name')
+//-             h5 =  project.project_name
 

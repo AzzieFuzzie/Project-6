@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 // Requires data from data.json file
-const data = require('./data.json').projects;
+// const data = require('./data.json').projects;
 
 // Sets view to pug after installing
 app.set('view engine', 'pug');
@@ -22,11 +22,11 @@ app.get('/about', (req, res) => {
 });
 
 // Displays projects
-app.get('/:id', (req, res) => {
-  res.render('data', {
-    project_name: data[req.params.id].project_name,
-  });
-});
+// app.get('/:id', (req, res) => {
+//   res.render('data', {
+//     project_name: data[req.params.id].project_name,
+//   });
+// });
 
 // Displays 404 error when page is not found
 app.use((req, res, next) => {

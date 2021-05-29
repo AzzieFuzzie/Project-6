@@ -7,7 +7,7 @@
       "description": "Generates a random quote",
       "live_link": "#",
       "github_link": "#",
-      "image_urls": "images/random_quotes.png"
+      "image_urls": "public/images/random_quotes.png"
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "description": "Shows appropriate data depending on page number",
       "live_link": "#",
       "github_link": "#",
-      "image_urls": "images/pagination.png"
+      "image_urls": "public/images/pagination.png"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "description": "Validates a from to check if information provided by the user is valid when submitted",
       "live_link": "#",
       "github_link": "#",
-      "image_urls": "images/form.png"
+      "image_urls": "public/images/form.png"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "description": "A game similiar to hang man>Players have to guess the word before running out of lives.",
       "live_link": "#",
       "github_link": "#",
-      "image_urls": "phrase_hunter.png"
+      "image_urls": "public/images/phrase_hunter.png"
     },
     {
       "id": 4,

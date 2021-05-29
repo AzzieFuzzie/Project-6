@@ -22,12 +22,12 @@ app.get('/about', (req, res) => {
 });
 
 // Displays projects depending o project id
-app.get('project/:id', (req, res) => {
+app.get('/project/:id', (req, res) => {
   // gets id from url
   const projectId = req.params.id;
   const project = projects.find(({ id }) => id === +projectId);
   if (project) {
-    res.render('project', { projects });
+    res.render('project', { project });
   } else {
     res.sendStatus(404);
   }

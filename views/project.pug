@@ -30,13 +30,18 @@ block content
               
 
         //- Add the href values to the links below
-        a.btn-link(href='') Live Demo
+        a.btn-link(href='#') Live Demo
         a.btn-link(href=`${project.github_link}`) GitHub Repo
 
     .project-img-box.box
-  
-          img.project-img(src=`http://localhost:3000/static/${project.additional_images}`, alt='')
-
+      //- img.project-img(src=`http://localhost:3000/static/${project.additional_images.add_img1}`, alt=`${project.descrition}`)
+      //- if project.additional_images.add_img2
+      //-   img.project-img(src=`http://localhost:3000/static/${project.additional_images.add_img2}`, alt=`${project.descrition}`)
+      //- if project.additional_images.add_img3
+      //-   img.project-img(src=`http://localhost:3000/static/${project.additional_images.add_img3}`, alt=`${project.descrition}`)
+      each image in project.additional_images
+        img.project-img(src=`http://localhost:3000/static/${image}`, alt=`${project.descrition}`)
+   
     nav.nav
       a(href='/')
         span &larr;

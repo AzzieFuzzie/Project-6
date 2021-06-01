@@ -21,7 +21,7 @@ app.get('/about', (req, res) => {
   res.render('about');
 });
 
-// Displays projects depending o project id
+// Displays projects depending on project id
 app.get('/project/:id', (req, res) => {
   // gets id from url
   const projectId = req.params.id;

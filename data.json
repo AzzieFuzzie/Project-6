@@ -6,8 +6,12 @@
       "technologies": "HTML,CSS,Javascript",
       "description": "Generates a random quote",
       "live_link": "#",
-      "github_link": "#",
-      "image_urls": "public/images/random_quotes.png"
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-1",
+      "image_urls": "images/rsz_random_quotes.png",
+      "additional_images": [
+        "images/random_quotes1.jpg",
+        "images/random_quotes2.jpg"
+      ]
     },
     {
       "id": 1,
@@ -15,8 +19,9 @@
       "technologies": "HTML,CSS,Javascript",
       "description": "Shows appropriate data depending on page number",
       "live_link": "#",
-      "github_link": "#",
-      "image_urls": "public/images/pagination.png"
+      "github_link": "https://github.com/AzzieFuzzie/techdegree-project-2",
+      "image_urls": "images/rsz_pagination.png",
+      "additional_images": "images/pagination2.jpg"
     },
     {
       "id": 2,
@@ -24,8 +29,9 @@
       "technologies": "HTML,CSS,Javascript",
       "description": "Validates a from to check if information provided by the user is valid when submitted",
       "live_link": "#",
-      "github_link": "#",
-      "image_urls": "public/images/form.png"
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-project-3",
+      "image_urls": "images/rsz_1form.png",
+      "additional_images": "images/pagination2.jpg"
     },
     {
       "id": 3,
@@ -33,8 +39,13 @@
       "technologies": "HTML,CSS,Javascript",
       "description": "A game similiar to hang man>Players have to guess the word before running out of lives.",
       "live_link": "#",
-      "github_link": "#",
-      "image_urls": "public/images/phrase_hunter.png"
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-4",
+      "image_urls": "images/rsz_phrase_hunter.png",
+      "additional_images": [
+        "images/phrase_hunter1.jpg",
+        "images/phrase_hunter2.jpg",
+        "images/phrase_hunter3.jpg"
+      ]
     },
     {
       "id": 4,
@@ -42,8 +53,9 @@
       "technologies": "HTML,CSS,Javascript",
       "description": "Fetches data from an API and displayes is.Users can click on a employee and a modal will show with the relevant information",
       "live_link": "#",
-      "github_link": "#",
-      "image_urls": "#"
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-5",
+      "image_urls": "images/rsz_api.png",
+      "additional_images": "images/api2.jpg"
     }
   ]
 }

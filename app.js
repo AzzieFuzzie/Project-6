@@ -34,10 +34,8 @@ app.get('/project/:id', (req, res) => {
 });
 
 // Displays 404 error when page is not found
-app.use((req, res, next) => {
-  const err = new Error('Not Found');
-  err.status = 404;
-  next(err);
+app.use((req, res) => {
+  res.status(404).send('Oops the page you looking for does not exist.🙁 ');
 });
 
 // Allows for localhost 3000 and logs to console make sure its working

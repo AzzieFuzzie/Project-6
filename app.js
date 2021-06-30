@@ -2,6 +2,8 @@
 const express = require('express');
 const app = express();
 
+const router = express.Router();
+
 // Requires data from data.json file
 const { projects } = require('./data.json');
 
@@ -42,3 +44,5 @@ app.use((req, res) => {
 app.listen(3000, () => {
   console.log('Listening');
 });
+
+module.exports = app;

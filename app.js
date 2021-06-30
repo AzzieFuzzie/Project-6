@@ -4,6 +4,8 @@ const app = express();
 
 const router = express.Router();
 
+const port = process.env.PORT || 3000;
+
 // Requires data from data.json file
 const { projects } = require('./data.json');
 
@@ -41,7 +43,7 @@ app.use((req, res) => {
 });
 
 // Allows for localhost 3000 and logs to console make sure its working
-app.listen(3000, () => {
+app.listen(port, () => {
   console.log('Listening');
 });
 

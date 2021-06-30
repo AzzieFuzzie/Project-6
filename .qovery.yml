@@ -1,0 +1,11 @@
+---
+application:
+  name: "muaaz-matwadia"
+  project: "Portfolio"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-muaaz-matwadia"
+  routes:
+  - application_name: "muaaz-matwadia"
+    paths:
+    - "/*"

@@ -20,7 +20,7 @@
       "description": "Shows appropriate data depending on page number clicked",
       "live_link": "#",
       "github_link": "https://github.com/AzzieFuzzie/techdegree-project-2",
-      "image_urls": "images/rsz_pagination.png",
+      "image_urls": "../public/images/rsz_pagination.png",
       "additional_images": ["images/pagination2.jpg"]
     },
     {

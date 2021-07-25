@@ -40,7 +40,7 @@
       "description": "A game similiar to hang man.Players have to guess the word before running out of lives.",
       "live_link": "#",
       "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-4",
-      "image_urls": "/static/images/rsz_phrase_hunter.png",
+      "image_urls": "static/images/rsz_phrase_hunter.png",
       "additional_images": [
         "images/phrase_hunter1.jpg",
         "images/phrase_hunter2.jpg",
@@ -54,7 +54,7 @@
       "description": "Fetches data from an API and displayes is.Users can click on a employee and a modal will show with the relevant information",
       "live_link": "#",
       "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-5",
-      "image_urls": "/static/images/rsz_api.png",
+      "image_urls": "static/images/rsz_api.png",
       "additional_images": {
         "add_img1": "images/api2.jpg"
       }

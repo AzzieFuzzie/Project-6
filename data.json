@@ -58,6 +58,54 @@
       "additional_images": {
         "add_img1": "images/api2.jpg"
       }
+    },
+    {
+      "id": 5,
+      "project_name": "React Gallery App",
+      "technologies": ["React", "CSS", "Javascript"],
+      "description": "Fetches data from an API and displays it on screen using react.Users can search to find the appropriate images.",
+      "live_link": "#",
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-7",
+      "image_urls": "static/images/rsz_api.png",
+      "additional_images": {
+        "add_img1": "images/api2.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "project_name": "SQL Databases",
+      "technologies": ["Express", "CSS", "Javascript"],
+      "description": "Fetches data a database and displays it on screen.Users can retrieve,create,update,delete.",
+      "live_link": "#",
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-8",
+      "image_urls": "static/images/rsz_api.png",
+      "additional_images": {
+        "add_img1": "images/api2.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "project_name": "Rest API",
+      "technologies": ["Express", "CSS", "Javascript"],
+      "description": "Create a rest API from scratch.",
+      "live_link": "#",
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-9",
+      "image_urls": "static/images/rsz_api.png",
+      "additional_images": {
+        "add_img1": "images/api2.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "project_name": "Full Stack Application",
+      "technologies": ["React", "CSS", "Javascript"],
+      "description": "Fetches data from rest API built in previous project to build the front-end part.",
+      "live_link": "#",
+      "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-10",
+      "image_urls": "static/images/rsz_api.png",
+      "additional_images": {
+        "add_img1": "images/api2.jpg"
+      }
     }
   ]
 }

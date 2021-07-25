@@ -7,7 +7,7 @@
       "description": "Generates a random quote when button is clicked or after 5sec",
       "live_link": "#",
       "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-1",
-      "image_urls": "images/rsz_random_quotes.png",
+      "image_urls": "static/images/rsz_random_quotes.png",
       "additional_images": [
         "images/random_quotes1.jpg",
         "images/random_quotes2.jpg"
@@ -30,7 +30,7 @@
       "description": "Validates a from to check if information provided by the user is valid when submitted",
       "live_link": "#",
       "github_link": "https://github.com/AzzieFuzzie/Techdegree-project-3",
-      "image_urls": "images/rsz_1form.png",
+      "image_urls": "static/images/rsz_1form.png",
       "additional_images": ["images/form.png"]
     },
     {
@@ -40,7 +40,7 @@
       "description": "A game similiar to hang man.Players have to guess the word before running out of lives.",
       "live_link": "#",
       "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-4",
-      "image_urls": "images/rsz_phrase_hunter.png",
+      "image_urls": "/static/images/rsz_phrase_hunter.png",
       "additional_images": [
         "images/phrase_hunter1.jpg",
         "images/phrase_hunter2.jpg",
@@ -54,7 +54,7 @@
       "description": "Fetches data from an API and displayes is.Users can click on a employee and a modal will show with the relevant information",
       "live_link": "#",
       "github_link": "https://github.com/AzzieFuzzie/Techdegree-Project-5",
-      "image_urls": "images/rsz_api.png",
+      "image_urls": "/static/images/rsz_api.png",
       "additional_images": {
         "add_img1": "images/api2.jpg"
       }
